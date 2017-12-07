@@ -1,2 +1,2 @@
 # java-concurrency
-java concurrency exaples
+java concurrency examples
